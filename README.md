@@ -7,7 +7,9 @@ Analisis e implementacion del articulo "Modelling the Cost Effectiveness of Lami
 La matriz de transici´on muestra la evoluci´on de los estados del paciente a un a˜no, de acuerdo al
 tipo de tratamiento aplicado.
 ###Matriz de transicion de monoterapia para el tratamiento del VIH, uso del medicamento Zidovudine (ZCV).
-
+<p align="center">
+  <img width="60" height="200" src="https://github.com/julian936/Markov_papper/blob/master/images/T1.PNG">
+</p>
 <center>
 ![Matriz de Transicion I](https://github.com/julian936/Markov_papper/blob/master/images/T1.PNG =100x20).
 </center>
