@@ -4,10 +4,10 @@ Analisis e implementacion del articulo "Modelling the Cost Effectiveness of Lami
 
 ## Comenzando 🚀
 
-_Debes tener instalado RStudio
+Debes tener instalado RStudio
 
 
 ## Julian Rojas Ramirez ✒️
 
-- [Github](https://github.com/julian936) - [ [Linkedin](https://www.linkedin.com/in/julian-rojas-ramirez-040a2552/)
+- [Github](https://github.com/julian936) - [Linkedin](https://www.linkedin.com/in/julian-rojas-ramirez-040a2552/)
 
