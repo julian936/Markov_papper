@@ -1,23 +1,36 @@
 # Traza Markov
 
-Analisis e implementacion del articulo "Modelling the Cost Effectiveness of Lamivudine/ZidovudineCombination Therapy in HIV Infection", genera una traza en el tiempo de 20 ciclos en el deterioro a la salud que tienen pacientes con HIV sometidos a dos tratamientos. 
+Se realizo una interpretacion del articulo [1] y se implemnta un programa donde se muestra la traza de Markov.
+El programa genera una traza en el tiempo de 20 ciclos en el deterioro a la salud que tienen 
+pacientes con HIV sometidos a dos tratamientos. 
 
 ## Comenzando 🚀
 
-La matriz de transici´on muestra la evoluci´on de los estados del paciente a un a˜no, de acuerdo al
-tipo de tratamiento aplicado.
+Deacuerdo al articulo la matriz de transicion tiene se definen los sientes estados:
+
+Estado A: Paciente con VIH positivo sin SIDA, con CD4 entre 200 y 500 células/mm3.
+Estado B: Paciente con VIH positivo sin SIDA, con CD4 menor a 200 células/mm3.
+Estado C: Paciente con VIH positivo diagnosticado con SIDA.
+Estado D: Fallecimiento del paciente.
+
+Cada tratamiento tiene una cadena de markov asociada:
+
 ###Matriz de transicion de monoterapia para el tratamiento del VIH, uso del medicamento Zidovudine (ZCV).
+
 <p align="center">
   <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/T1.PNG">
 </p>
-<center>
-![Matriz de Transicion I](https://github.com/julian936/Markov_papper/blob/master/images/T1.PNG =100x20).
-</center>
+
 
 ###Matriz de transicion para el tratamiento combinado para el VIH, uso de los medicamentos Lamivudine (3TC) y Zidovudine (ZCV).
- <center>
-![Matriz de Transicion II](https://github.com/julian936/Markov_papper/blob/master/images/T2.PNG=100x20).
-</center>
+
+<p align="center">
+  <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/T2.PNG">
+</p>
+
+
+
+
 <center>
 ![Estado A](https://github.com/julian936/Markov_papper/blob/master/images/RplotA.png=100x20).
 </center>
@@ -37,8 +50,12 @@ tipo de tratamiento aplicado.
 ![salida tratamiento II](https://github.com/julian936/Markov_papper/blob/master/images/st2.PNG=100x20).
 </center>
 
-## Julian Rojas Ramirez ✒️
 
+## Julian Rojas Ramirez ✒️
 
 - [Github](https://github.com/julian936) - [Linkedin](https://www.linkedin.com/in/julian-rojas-ramirez-040a2552/)
 
+
+## 📚 Bibliografia
+
+ [1] Chancellor, J.V., Hill, A.M., Sabin, C.A. et al. Modelling the Cost Effectiveness of Lamivudine/Zidovudine Combination Therapy in HIV Infection. Pharmacoeconomics 12, 54–66 (1997). https://doi.org/10.2165/00019053-199712010-00006
