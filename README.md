@@ -4,7 +4,7 @@ Se realizo una interpretacion del articulo [1] y se implemnta un programa donde 
 El programa genera una traza en el tiempo de 20 ciclos en el deterioro a la salud que tienen 
 pacientes con HIV sometidos a dos tratamientos. 
 
-## Comenzando 🚀
+## 🤓 Comenzando 
 
 Deacuerdo al articulo la matriz de transicion tiene se definen los sientes estados:
 
@@ -27,49 +27,45 @@ Cada tratamiento tiene una cadena de markov asociada:
 </table>
 
 
+## 🚀 Resultados 
 
 
 
-<table>
+<table style="text-align:center;">
   <tr>
-    <td> <img src="img1.png"  alt="1" width = 360px height = 640px ></td>
-
-    <td><img src="img2.png" alt="2" width = 360px height = 640px></td>
+      <td> <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/RplotA.png"></td>
+      <td> <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/RplotB.png"></td>
    </tr> 
    <tr>
-      <td><img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/RplotA.png"></td>
-
-      <td><img src="./Scshot/trip_end.png" align="right" alt="4" width = 360px height = 640px>
-  </td>
+      <td><b>Tratamiento I.</b> AAAAAAAAAAAA</td>
+      <td><b>Tratamiento II.</b> BBBBBBBBBBBB</td>
+  </tr>
+  <tr>
+      <td> <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/RplotC.png"></td>
+      <td> <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/RplotD.png"></td>
+   </tr> 
+   <tr>
+      <td><b>Tratamiento I.</b> CCCCCCCCCCCCCCCC </td>
+      <td><b>Tratamiento II.</b> DDDDDDDDDDDDDDD  </td>
   </tr>
 </table>
 
 
-### 
-### 
+
+## 🚀 Resultados 
 
 
-<center>
-![Estado A](https://github.com/julian936/Markov_papper/blob/master/images/RplotA.png=100x20).
+
 </center>
 <center>
-![Estado B](https://github.com/julian936/Markov_papper/blob/master/images/RplotB.png=100x20).
+![salida tratamiento I](https://github.com/julian936/Markov_papper/blob/master/images/st1.PNG).
 </center>
 <center>
-![Estado C](https://github.com/julian936/Markov_papper/blob/master/images/RplotC.png=100x20).
-</center>
-<center>
-![Estado D](https://github.com/julian936/Markov_papper/blob/master/images/RplotD.png=100x20).
-</center>
-<center>
-![salida tratamiento I](https://github.com/julian936/Markov_papper/blob/master/images/st1.PNG=100x20).
-</center>
-<center>
-![salida tratamiento II](https://github.com/julian936/Markov_papper/blob/master/images/st2.PNG=100x20).
+![salida tratamiento II](https://github.com/julian936/Markov_papper/blob/master/images/st2.PNG).
 </center>
 
 
-## Julian Rojas Ramirez ✒️
+## ✒️ Julian Rojas Ramirez 
 
 - [Github](https://github.com/julian936) - [Linkedin](https://www.linkedin.com/in/julian-rojas-ramirez-040a2552/)
 
