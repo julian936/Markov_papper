@@ -4,7 +4,7 @@ Se realizo una interpretacion del articulo [1] y se implemnta un programa donde 
 El programa genera una traza en el tiempo de 20 ciclos en el deterioro a la salud que tienen 
 pacientes con HIV sometidos a dos tratamientos. 
 
-## 🤓 Comenzando 
+## 🔬 Comenzando 
 
 Deacuerdo al articulo la matriz de transicion tiene se definen los sientes estados:
 
@@ -30,19 +30,18 @@ Cada tratamiento tiene una cadena de markov asociada:
 ## 🚀 Resultados 
 
 
-
 <table style="text-align:center;">
   <tr>
-      <td> <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/RplotA.png"></td>
-      <td> <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/RplotB.png"></td>
+      <td> <img width="450" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/RplotA.png"></td>
+      <td> <img width="450" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/RplotB.png"></td>
    </tr> 
    <tr>
       <td><b>Tratamiento I.</b> AAAAAAAAAAAA</td>
       <td><b>Tratamiento II.</b> BBBBBBBBBBBB</td>
   </tr>
   <tr>
-      <td> <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/RplotC.png"></td>
-      <td> <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/RplotD.png"></td>
+      <td> <img width="450" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/RplotC.png"></td>
+      <td> <img width="450" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/RplotD.png"></td>
    </tr> 
    <tr>
       <td><b>Tratamiento I.</b> CCCCCCCCCCCCCCCC </td>
