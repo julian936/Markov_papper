@@ -8,7 +8,7 @@ La matriz de transici´on muestra la evoluci´on de los estados del paciente a u
 tipo de tratamiento aplicado.
 ###Matriz de transicion de monoterapia para el tratamiento del VIH, uso del medicamento Zidovudine (ZCV).
 <p align="center">
-  <img width="250" height="200" src="https://github.com/julian936/Markov_papper/blob/master/images/T1.PNG">
+  <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/T1.PNG">
 </p>
 <center>
 ![Matriz de Transicion I](https://github.com/julian936/Markov_papper/blob/master/images/T1.PNG =100x20).
