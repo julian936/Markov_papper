@@ -9,5 +9,7 @@ Debes tener instalado RStudio
 
 ## Julian Rojas Ramirez ✒️
 
+![Benjamin Bannekat](https://github.com/julian936/Markov_papper/blob/master/images/RplotA.png).
+
 - [Github](https://github.com/julian936) - [Linkedin](https://www.linkedin.com/in/julian-rojas-ramirez-040a2552/)
 
