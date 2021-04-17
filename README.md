@@ -32,12 +32,10 @@ Cada tratamiento tiene una cadena de markov asociada:
 <table>
   <tr>
     <td>  <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/T1.PNG"></td>
-
     <td> dfsdsdsdsdsd /td>
    </tr> 
    <tr>
       <td> <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/T2.PNG"></td>
-
       <td>sdsdsdsdsdsd </td>
   </tr>
 </table>
