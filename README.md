@@ -17,7 +17,7 @@ Cada tratamiento tiene una cadena de markov asociada:
 
 <table style="text-align:center;">
   <tr>
-      <td> <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/T1.PNG"></td>
+      <td><center> <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/T1.PNG"></center></td>
       <td> <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/T2.PNG"></td>
    </tr> 
    <tr>
