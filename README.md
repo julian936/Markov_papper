@@ -21,8 +21,8 @@ Cada tratamiento tiene una cadena de markov asociada:
       <td> <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/T2.PNG"></td>
    </tr> 
    <tr>
-      <td><b>Tratamiento I. /<b> Matriz de transicion de monoterapia para el tratamiento del VIH, uso del medicamento Zidovudine (ZCV).</td>
-      <td><b>Tratamiento II. /<b>Matriz de transicion para el tratamiento combinado para el VIH, uso de los medicamentos Lamivudine (3TC) y Zidovudine (ZCV).</td>
+      <td><b>Tratamiento I.</b> Matriz de transicion de monoterapia para el tratamiento del VIH, uso del medicamento Zidovudine (ZCV).</td>
+      <td><b>Tratamiento II.</b> Matriz de transicion para el tratamiento combinado para el VIH, uso de los medicamentos Lamivudine (3TC) y Zidovudine (ZCV).</td>
   </tr>
 </table>
 
