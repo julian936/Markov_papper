@@ -15,28 +15,14 @@ Estado D: Fallecimiento del paciente.
 
 Cada tratamiento tiene una cadena de markov asociada:
 
-### Matriz de transicion de monoterapia para el tratamiento del VIH, uso del medicamento Zidovudine (ZCV).
-
-<p align="center">
-  <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/T1.PNG">
-</p>
-
-
-### Matriz de transicion para el tratamiento combinado para el VIH, uso de los medicamentos Lamivudine (3TC) y Zidovudine (ZCV).
-
-<p align="center">
-  <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/T2.PNG">
-</p>
-
-
-<table>
+<table style="text-align:center;">
   <tr>
       <td> <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/T1.PNG"></td>
       <td> <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/T2.PNG"></td>
    </tr> 
    <tr>
-      <td>Matriz de transicion de monoterapia para el tratamiento del VIH, uso del medicamento Zidovudine (ZCV).</td>
-      <td>Matriz de transicion para el tratamiento combinado para el VIH, uso de los medicamentos Lamivudine (3TC) y Zidovudine (ZCV).</td>
+      <td><b>Tratamiento I. /<b> Matriz de transicion de monoterapia para el tratamiento del VIH, uso del medicamento Zidovudine (ZCV).</td>
+      <td><b>Tratamiento II. /<b>Matriz de transicion para el tratamiento combinado para el VIH, uso de los medicamentos Lamivudine (3TC) y Zidovudine (ZCV).</td>
   </tr>
 </table>
 
