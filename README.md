@@ -64,11 +64,13 @@ Cada tratamiento tiene una cadena de markov asociada:
 </table>
 
 
+## 📚 Bibliografia
+
+ [1] Chancellor, J.V., Hill, A.M., Sabin, C.A. et al. Modelling the Cost Effectiveness of Lamivudine/Zidovudine Combination Therapy in HIV Infection. Pharmacoeconomics 12, 54–66 (1997). https://doi.org/10.2165/00019053-199712010-00006
+ 
+ 
+
 ## ✒️ Julian Rojas Ramirez 
 
 - [Github](https://github.com/julian936) - [Linkedin](https://www.linkedin.com/in/julian-rojas-ramirez-040a2552/)
 
-
-## 📚 Bibliografia
-
- [1] Chancellor, J.V., Hill, A.M., Sabin, C.A. et al. Modelling the Cost Effectiveness of Lamivudine/Zidovudine Combination Therapy in HIV Infection. Pharmacoeconomics 12, 54–66 (1997). https://doi.org/10.2165/00019053-199712010-00006
