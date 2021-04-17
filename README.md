@@ -27,41 +27,41 @@ Cada tratamiento tiene una cadena de markov asociada:
 </table>
 
 
-## 🚀 Resultados 
-
+## 🚀 Ejecucion
+### final(t1) esta funcion recibe una matriz de transicion con tratamiento I o II.
 
 <table style="text-align:center;">
   <tr>
-      <td> <img width="450" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/RplotA.png"></td>
-      <td> <img width="450" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/RplotB.png"></td>
+      <td><center> <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/st1.PNG"></center></td>
    </tr> 
    <tr>
-      <td><b>Tratamiento I.</b> AAAAAAAAAAAA</td>
-      <td><b>Tratamiento II.</b> BBBBBBBBBBBB</td>
-  </tr>
-  <tr>
-      <td> <img width="450" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/RplotC.png"></td>
-      <td> <img width="450" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/RplotD.png"></td>
-   </tr> 
-   <tr>
-      <td><b>Tratamiento I.</b> CCCCCCCCCCCCCCCC </td>
-      <td><b>Tratamiento II.</b> DDDDDDDDDDDDDDD  </td>
+      <td> <img width="350" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/st1.PNG"></td>
   </tr>
 </table>
 
 
-
-## 🚀 Resultados 
-
+### grafica(t1,t2,"A") esta funcion recibe dos matrices y un estado.
 
 
-</center>
-<center>
-![salida tratamiento I](https://github.com/julian936/Markov_papper/blob/master/images/st1.PNG).
-</center>
-<center>
-![salida tratamiento II](https://github.com/julian936/Markov_papper/blob/master/images/st2.PNG).
-</center>
+
+<table style="text-align:center;">
+  <tr>
+      <td> <img width="500" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/RplotA.png"></td>
+      <td> <img width="500" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/RplotB.png"></td>
+   </tr> 
+   <tr>
+      <td><b>grafica(t1,t2,"A")</b>   </td>
+      <td><b>grafica(t1,t2,"B")</b>   </td>
+  </tr>
+  <tr>
+      <td> <img width="500" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/RplotC.png"></td>
+      <td> <img width="500" height="300" src="https://github.com/julian936/Markov_papper/blob/master/images/RplotD.png"></td>
+   </tr> 
+   <tr>
+      <td><b>grafica(t1,t2,"C")</b>   </td>
+      <td><b>grafica(t1,t2,"D")</b>   </td>
+  </tr>
+</table>
 
 
 ## ✒️ Julian Rojas Ramirez 
